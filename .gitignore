@@ -1,0 +1,11 @@
+# Ignore frontend node modules and builds
+/frontend/node_modules
+/frontend/dist
+
+# Ignore backend build files
+/backend/bin
+/backend/obj
+
+# General
+*.log
+.env
